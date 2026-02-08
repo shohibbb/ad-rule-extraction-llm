@@ -70,6 +70,8 @@ CSV Report (per-aircraft × per-AD status)
 
 ### 1. Clone the Repository
 
+Adjust according to the OS you are using. If you are using Windows, use:
+
 ```bash
 git clone https://github.com/shohibbb/ad-rule-extraction-llm.git
 cd ad-rule-extraction-llm
@@ -85,7 +87,8 @@ Create a `.env` file in the project root:
 GOOGLE_API_KEY=your_google_gemini_api_key_here
 ```
 
-> The project uses **Google Gemini (GenAI SDK)** for rule extraction.
+> The project uses **Google Gemini (GenAI SDK)** for rule extraction.  
+> If you use a different LLM, some adjustments will be required.
 
 ---
 
