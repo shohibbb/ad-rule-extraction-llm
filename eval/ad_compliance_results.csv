@@ -1,0 +1,14 @@
+Aircraft,MSN,Modifications,2025-0254R1,AD 2025-23-53
+MD-11F,48400,None,❌ Not applicable,✅ Affected
+A320-214,4500,mod 24591 (production),❌ Not affected,❌ Not applicable
+A320-214,4500,None,✅ Affected,❌ Not applicable
+MD-11,48123,None,❌ Not applicable,✅ Affected
+DC-10-30F,47890,None,❌ Not applicable,✅ Affected
+Boeing 737-800,30123,None,❌ Not applicable,❌ Not applicable
+A320-214,5234,None,✅ Affected,❌ Not applicable
+A320-232,6789,mod 24591 (production),❌ Not affected,❌ Not applicable
+A320-214,7456,SB A320-57-1089 Rev 04,✅ Affected,❌ Not applicable
+A321-111,8123,None,✅ Affected,❌ Not applicable
+A321-112,364,mod 24977 (production),❌ Not affected,❌ Not applicable
+A319-100,9234,None,❌ Not applicable,❌ Not applicable
+MD-10-10F,46234,None,❌ Not applicable,✅ Affected
