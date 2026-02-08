@@ -71,8 +71,8 @@ CSV Report (per-aircraft × per-AD status)
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shohibbb/ad-rule-extraction-llm
-cd https://github.com/shohibbb/ad-rule-extraction-llm
+git clone https://github.com/shohibbb/ad-rule-extraction-llm.git
+cd ad-rule-extraction-llm
 ```
 
 ---
